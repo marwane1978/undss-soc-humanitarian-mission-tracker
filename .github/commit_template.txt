@@ -1,0 +1,15 @@
+<type>: <description courte>
+
+Détails :
+- Ce qui a été fait ?
+- Pourquoi ?
+- Notes supplémentaires ?
+
+Types courants :
+- feat : nouvelle fonctionnalité
+- fix : correction de bug
+- docs : documentation
+- style : formatage / mise en forme
+- refactor : amélioration du code
+- test : ajout/modif de tests
+- chore : tâches internes
